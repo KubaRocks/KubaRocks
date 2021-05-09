@@ -1,4 +1,4 @@
-# Hi, I'm Kuba 👋
+# Hey, I'm Kuba 🤘
 
 [![Twitter Badge](https://img.shields.io/badge/-@KubaRocks-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KubaRocks)](https://twitter.com/KubaRocks) [![Linkedin Badge](https://img.shields.io/badge/-kubaflorczuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kubaflorczuk/)](https://www.linkedin.com/in/kubaflorczuk/)
 
