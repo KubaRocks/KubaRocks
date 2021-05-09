@@ -12,6 +12,6 @@
 
 [![Kuba's github stats](https://github-readme-stats.vercel.app/api?username=KubaRocks&count_private=true&show_icons=true)](https://github.com/KubaRocks)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KubaRocks&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KubaRocks&hide=vim%20script)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KubaRocks)](https://github.com/anuraghazra/github-readme-stats)
