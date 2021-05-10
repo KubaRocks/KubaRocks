@@ -11,5 +11,5 @@ I'm a Full-Stack Developer and Team Leader based in Warsaw, Poland, with 16 year
 ## Stats
 [![Kuba's github stats](https://kuba-rocks-github-readme-stats.vercel.app/api?username=KubaRocks&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=ff7979&hide=stars&include_all_commits=true)](https://github.com/KubaRocks) 
 [![Top Langs](https://kuba-rocks-github-readme-stats.vercel.app/api/top-langs/?username=KubaRocks&hide=vim%20script&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)](https://github.com/KubaRocks)
-[![willianrod's wakatime stats](https://kuba-rocks-github-readme-stats.vercel.app/api/wakatime?username=KubaRocks&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/KubaRocks)
+[![willianrod's wakatime stats](https://kuba-rocks-github-readme-stats.vercel.app/api/wakatime?username=KubaRocks&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&v=2)](https://github.com/KubaRocks)
 
