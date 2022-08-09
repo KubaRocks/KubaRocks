@@ -2,7 +2,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@KubaRocks-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KubaRocks)](https://twitter.com/KubaRocks) [![Linkedin Badge](https://img.shields.io/badge/-kubaflorczuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kubaflorczuk/)](https://www.linkedin.com/in/kubaflorczuk/)
 
-I'm a Full-Stack Developer and Team Leader based in Warsaw, Poland, with 18 years of commercial experience in Web Development and Team Management. Also a husband and father of one sweet two-year-old girl. Huge fan of basketball and comics.
+I'm a Full-Stack Developer and Team Leader based in Warsaw, Poland, with 18 years of commercial experience in Web Development and Team Management. Also a husband and father of one sweet three-year-old girl. Huge fan of basketball and comics.
 
 ## Tech Stack
 
